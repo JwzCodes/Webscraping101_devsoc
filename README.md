@@ -24,4 +24,10 @@ python3 -m venv .venv
 . .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
 4. Install dependencies
-``` python3 -m pip install -r requirements.txt ```
+```
+python3 -m pip install -r requirements.txt
+```
+5. Activate the virtual environmenrt
+```
+source .venv/bin/activate
+```
