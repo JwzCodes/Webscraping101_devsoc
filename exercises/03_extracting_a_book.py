@@ -9,6 +9,7 @@ TASKS:
   1. Find the FIRST book
   2. Get that book's title.
   3. Get that book's price text.
+  4. Modify the current implementation to extract all books
 
 How to run (from inside the exercises folder):
     python3 03_extracting_a_book.py
@@ -31,3 +32,6 @@ soup = BeautifulSoup(response.text, "html.parser")
 
 # TODO 3: get the price.
 # Hint: you can inspect the location of the price
+
+# TODO 4: how do you modify the current implementation to print all the books?
+# Hint: use the keyword 'all'
