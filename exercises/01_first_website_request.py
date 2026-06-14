@@ -16,7 +16,7 @@ How to run (from inside the exercises folder):
 
 import requests
 
-URL = "https://novelfire.net/book/im-the-evil-lord-of-an-intergalactic-empire/chapter-1"
+URL = "https://books.toscrape.com/"
 
 # TODO 1: send a GET request to URL and store the result in a variable called `response`
 # response = ...
