@@ -3,6 +3,7 @@ Exercise 0 - Setup check
 ========================
 This program is here to check if you have installed the requirements correctly
 and to prompt you on how you should install it if you have not done so.
+
 How to run (from inside the exercises folder):
     python3 00_setup_check.py
 """
