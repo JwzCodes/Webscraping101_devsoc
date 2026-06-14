@@ -1,15 +1,15 @@
 """
-Exercise 3 - extracting_a_book
+Exercise 3 - extracting a book
 ========================
 Every book on the page lives inside a container.
 If we grab the first one, we can practise extracting the informationh we want
 before we do it to the rest of the books.
 
 TASKS:
-  1. Find the FIRST book
-  2. Get that book's title.
-  3. Get that book's price text.
-  4. Modify the current implementation to extract all books
+    1. Find the FIRST book
+    2. Get that book's title.
+    3. Get that book's price text.
+    4: Modify the current implementation to extract all books on the page
 
 How to run (from inside the exercises folder):
     python3 03_extracting_a_book.py
